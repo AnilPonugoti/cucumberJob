@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 30.346 s <<< FAILURE! - in TestSuite
+runScenario(cucumberOptions.TestNGtestRunner)  Time elapsed: 25.453 s  <<< FAILURE!
+java.lang.AssertionError: expected [No data] but found [Beetroot]
+
+runScenario(cucumberOptions.TestNGtestRunner)  Time elapsed: 26.954 s  <<< FAILURE!
+java.lang.AssertionError: expected [Tomato] but found [Cucumber]
+
